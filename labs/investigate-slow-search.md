@@ -17,7 +17,7 @@ index=_internal
 
 - Check if the time range is too large
 - Validate lookup file size
-- Apply filters early (```index```,``` sourcetype```, ``host``)
+- Apply filters early (```index```, ```sourcetype```, ``host``)
 - Replace ``stats + sort`` with ``top`` (if applicable)
 - Use ``tstats`` if data is accelerated
 
