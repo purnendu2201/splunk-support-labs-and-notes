@@ -29,7 +29,7 @@ index=_internal sourcetype=splunkd
 | stats count by component
 ```
 
-##📝 What I learned
+## 📝 What I learned
 
 - How to add panels
 - How to use SPL to build visualizations
